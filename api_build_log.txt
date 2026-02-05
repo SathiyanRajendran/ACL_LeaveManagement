@@ -1,0 +1,32 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20260205171526
+Username: DSK0628\sathiyan.r
+RunAs User: DSK0628\sathiyan.r
+Configuration Name: 
+Machine: DSK0628 (Microsoft Windows NT 10.0.22631.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -Command Start-Transcript api_build_log.txt; dotnet clean c:\Users\sathiyan.r\.gemini\antigravity\scratch\ACL_LeaveManagement\ACL.LeaveManagement.Api\ACL.LeaveManagement.Api.csproj; dotnet build c:\Users\sathiyan.r\.gemini\antigravity\scratch\ACL_LeaveManagement\ACL.LeaveManagement.Api\ACL.LeaveManagement.Api.csproj; Stop-Transcript
+Process ID: 20440
+PSVersion: 5.1.22621.6060
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.6060
+BuildVersion: 10.0.22621.6060
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is api_build_log.txt
+pi\ACL.LeaveManagement.
+Api.csproj; Stop-Transc
+ript"
+Transcript started, out
+put file is api_build_l
+og.txt
+
+Build succeeded in 0.5s
+nformation.
+**********************
+Windows PowerShell transcript end
+End time: 20260205171528
+**********************
